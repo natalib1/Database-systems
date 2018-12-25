@@ -1,5 +1,5 @@
 # Database-systems
-Realization of a B+ tree
+Implementation of a B+ tree
 
 java
 
